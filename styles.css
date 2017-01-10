@@ -1,2 +1,52 @@
 /* Move your styles here when you're ready to clean up your HTML file */
 /* Don't forget to link to this file in your HTML, otherwise your styles won't show up! */
+
+
+
+      html {
+        font-family: 'Noto Serif', serif;
+        background-color: #E9EFF2;
+        color: #707070;
+        text-align: inherit;
+        margin-left: 170px;
+        margin-right: 170px;
+      }
+
+      h1{
+      color: #2E86C1;
+      text-align: center;
+      font-family: cursive;
+      font-size: 36px;
+      }
+
+      h2 {
+        text-align: center;
+        font-family: cursive;
+        color: #2E86C1;
+        font-size: 30px;
+
+      }
+
+      ul {
+        color: #808080;
+      }
+
+      article h1{
+        color: #2E86C1;
+      }
+
+      article a {
+        text-align: left;
+        font-style: oblique;
+        color: #707070;
+      }
+
+      article a:hover {
+      color: white;
+      background: #2E86C1;
+      }
+
+      article a visited {
+        color: black;
+        background: #2E86C1;
+      }
